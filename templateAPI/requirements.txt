@@ -1,0 +1,6 @@
+rembg==2.0.53
+Pillow==10.1.0
+cv==1.0.0
+google-cloud-firestore==2.14.0
+firebase-admin==6.3.0
+Flask==3.0.0
